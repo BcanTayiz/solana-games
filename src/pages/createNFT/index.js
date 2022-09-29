@@ -50,8 +50,8 @@ function GenerateNFT() {
       share: 100,
     });
     const metadata = {
-      name: `TEST_NFT`,
-      symbol: 'MNFT',
+      name: `Barış's Game NFT`,
+      symbol: '0433 NFT',
       creators: [selfCreator],
       description: '',
       sellerFeeBasisPoints: 0,
